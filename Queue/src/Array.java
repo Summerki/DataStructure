@@ -1,5 +1,3 @@
-import com.sun.deploy.security.WIExplorerUntrustedCertStore;
-
 public class Array<E> {
     private E[] data;
     private int size;
@@ -68,6 +66,16 @@ public class Array<E> {
             throw new IllegalArgumentException("Get failed. Index is illegal.");
         }
         return data[index];
+    }
+
+    // 返回最后一个值
+    public E getLast(){
+        return get(size - 1);
+    }
+
+    // 返回第一个值
+    public E getFirst(){
+        return get(0);
     }
 
     // 修改index索引位置的元素为e
