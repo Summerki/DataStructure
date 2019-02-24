@@ -10,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" lean-forward="true" selection-end-line="9" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="157" column="30" lean-forward="true" selection-start-line="147" selection-start-column="8" selection-end-line="157" selection-end-column="30" />
+            <state relative-caret-position="2085">
+              <caret line="157" column="30" selection-start-line="147" selection-start-column="8" selection-end-line="157" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -32,25 +32,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="63" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
+            <state relative-caret-position="705">
+              <caret line="63" column="5" selection-start-line="56" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
               <folding>
                 <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
                 <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
                 <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
                 <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
                 <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
                 <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
                 <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,15 +57,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoopQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="120">
               <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
               <folding>
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
                 <element signature="e#366#367#0" expanded="true" />
                 <element signature="e#404#405#0" expanded="true" />
                 <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
                 <element signature="e#528#529#0" expanded="true" />
                 <element signature="e#555#556#0" expanded="true" />
               </folding>
@@ -75,11 +71,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="21" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LinkedListQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,13 +121,14 @@
         <option value="$PROJECT_DIR$/src/ArrayQueue.java" />
         <option value="$PROJECT_DIR$/src/LoopQueue.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListQueue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,7 +159,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550749842716" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550993514866" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -206,102 +224,99 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550739311248</updated>
-      <workItem from="1550739313754" duration="6106000" />
+      <workItem from="1550739313754" duration="6749000" />
+      <workItem from="1550992686969" duration="763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6106000" />
+    <option name="totallyTimeSpent" value="7512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16756032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44868034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44868034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Array.java">
+    <entry file="file://$PROJECT_DIR$/src/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="157" column="30" lean-forward="true" selection-start-line="147" selection-start-column="8" selection-end-line="157" selection-end-column="30" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-end-line="9" />
+        <state relative-caret-position="2085">
+          <caret line="157" column="30" selection-start-line="147" selection-start-column="8" selection-end-line="157" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="63" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
+        <state relative-caret-position="705">
+          <caret line="63" column="5" selection-start-line="56" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
           <folding>
             <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
             <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
             <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
             <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
             <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
             <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
             <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoopQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="120">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
             <element signature="e#366#367#0" expanded="true" />
             <element signature="e#404#405#0" expanded="true" />
             <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
             <element signature="e#528#529#0" expanded="true" />
             <element signature="e#555#556#0" expanded="true" />
           </folding>
@@ -310,8 +325,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="21" lean-forward="true" selection-end-line="28" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
