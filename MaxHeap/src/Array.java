@@ -15,6 +15,14 @@ public class Array<E> {
         this(10);
     }
 
+    public Array(E[] arr){
+        data = (E[])new Object[arr.length];
+        for(int i = 0; i < arr.length; i++){
+            data[i] = arr[i];
+        }
+        size = arr.length;
+    }
+
     // 获取数组的容量
     public int getCapacity(){
         return data.length;
